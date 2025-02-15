@@ -1,0 +1,14 @@
+--variable
+URL:https://web.eos.bnk-il.com/auth
+--variable
+BROWSER:chromium
+--variable
+HEADLESS:false
+
+
+--pythonpath .\
+--include sanity
+--name Sanity Tests on web.eos.bnk-il
+--outputdir .\results\
+-v ROBOT_HOME:${PWD}
+--output run_results.xml
