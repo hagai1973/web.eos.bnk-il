@@ -4,7 +4,7 @@ Sure, here is a `README.md` file for your project:
 # Web EOS BNK-IL Test Automation
 
 This project contains automated tests for the Web EOS BNK-IL application using Robot Framework and 
-the Browser library.
+the Browser library (Playwright).
 
 ## Prerequisites
 
